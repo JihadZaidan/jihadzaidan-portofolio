@@ -292,7 +292,7 @@ function calculateAge(birthDate) {
 }
 
 document.getElementById("age").textContent = `${calculateAge(
-  "1994-07-01"
+  "2008-04-11"
 )} years old`;
 
 // Motto Animation

@@ -1001,7 +1001,7 @@
   }
   
   .languages-progress-bg {
-    background: var(--electrode-elemention);
+    background: none;
     width: 100%;
     height: 8px;
     border-radius: 10px;

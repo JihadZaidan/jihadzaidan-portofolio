@@ -299,7 +299,7 @@ document.getElementById("age").textContent = `${calculateAge(
 const text = Array.from({ length: 20 }, () =>
   Array.from({ length: 16 }, () => Math.round(Math.random())).join("")
 );
-text.push("Hello, World !");
+text.push("Time Is Money !");
 
 const mottoElement = document.getElementById("motto");
 let index = 0;

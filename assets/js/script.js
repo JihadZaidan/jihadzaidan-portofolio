@@ -307,7 +307,7 @@ let index = 0;
 function flipmotto() {
   mottoElement.textContent = text[index];
 
-  if (text[index] === "Hello, World !") {
+  if (text[index] === "Time Is Money !") {
     clearInterval(intervalId);
   }
 
